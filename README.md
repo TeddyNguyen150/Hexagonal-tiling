@@ -7,3 +7,9 @@ Then to show that a Hexagonal corona has 6n hexagons we show H(n + 1) - H(n) = 6
 
 (A003215) Hex (or centered hexagonal) numbers:
 https://oeis.org/A003215
+
+
+The formalization language used to prove this is Lean, more specifically Lean 4
+
+To install Lean 4, click the link and follow the instructions
+https://lean-lang.org/install/
